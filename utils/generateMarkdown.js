@@ -1,49 +1,49 @@
 // function to generate markdown for README
 
 function generateMarkdown(data) {
+console.log("data in generateMarkdown", data);
 
-// badge
-// image
 
   return `
-  TITLE
-  ${data.title}
+  # TITLE: ${data.title}
+  \n ${data.license}
 
-  DESCRIPTION
+  ## DESCRIPTION:
   ${data.description}
 
-  TABLE OF CONTENTS
-  - [Installation]
-  - [Usage]
-  - [License]
-  - [Tests]
-  - [Contributors] 
-  - [Questions]
+  ## TABLE OF CONTENTS:
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [Contributors](#contributors)
+  - [Questions](#questions)
 
-  Installation
+
+  ## INSTALLATION:
   ${data.installation}
 
-  Usage
+ ## USAGE:
   ${data.usage}
 
-  License
-  ${data.license}
-
-  Tests
+ ## TESTS:
   ${data.tests}
 
-  Contributors
+ ## CONTRIBUTORS:
   ${data.contributing}
 
-  Contact
+  ## QUESTIONS:
+  ${data.questions}
 
-  \n ${badge}
-  \n ${image}
-  \n (View the project in GitHub at: ${data.url})
-  \n (Contact the author at ${data.email})
+  \n Contact the author at ${data.email}
+  \n View the project in GitHub at: [${data.url}](${data.url})
+ 
+  \n <img src="${data.avatar}"/>
+
+
+
 
 `;
-
 }
 
 module.exports = generateMarkdown;
