@@ -1,10 +1,10 @@
 
   # TITLE: Weather Dashboard
   
- [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## DESCRIPTION:
-  kjklj
+  You can find out the weather in any given city
 
   ## TABLE OF CONTENTS:
   - [Description](#description)
@@ -16,19 +16,19 @@
 
 
   ## INSTALLATION:
-  jkljljl
+  Type any city you're intersted in search and discover what the weather is 
 
  ## USAGE:
-  ljlkjljlkjl
+  To tell you the weather in any given city
 
  ## TESTS:
-  ljljljljkljlk
+  Try previous searches and see if it work 
 
  ## CONTRIBUTORS:
   Sophia Castillo
 
   ## QUESTIONS:
-  lj
+  Author is happy to answer any question
 
   
  Contact the author at sphcastillo@gmail.com
