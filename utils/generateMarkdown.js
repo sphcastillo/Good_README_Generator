@@ -30,7 +30,7 @@ console.log("data in generateMarkdown", data);
   ${data.tests}
 
  ## CONTRIBUTORS:
-  ${data.contributing}
+  ${data.contributors}
 
   ## QUESTIONS:
   ${data.questions}

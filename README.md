@@ -1,10 +1,10 @@
 
   # TITLE: Weather Dashboard
   
- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
   ## DESCRIPTION:
-  It tells you the weather in the city you're interested in
+  kjklj
 
   ## TABLE OF CONTENTS:
   - [Description](#description)
@@ -16,19 +16,19 @@
 
 
   ## INSTALLATION:
-  You give the city you're interest on. Type in search
+  jkljljl
 
  ## USAGE:
-  Give you the weather forecast for the next 7 days 
+  ljlkjljlkjl
 
  ## TESTS:
-  jkjk'
+  ljljljljkljlk
 
  ## CONTRIBUTORS:
-  undefined
+  Sophia Castillo
 
   ## QUESTIONS:
-  
+  lj
 
   
  Contact the author at sphcastillo@gmail.com
