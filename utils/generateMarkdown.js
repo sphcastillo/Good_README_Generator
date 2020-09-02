@@ -16,8 +16,10 @@ console.log("data in generateMarkdown", data);
   - [Installation](#installation)
   - [Usage](#usage)
   - [Tests](#tests)
+  - [License](#license)
   - [Contributors](#contributors)
   - [Questions](#questions)
+ 
 
 
   ## INSTALLATION:
@@ -29,6 +31,9 @@ console.log("data in generateMarkdown", data);
  ## TESTS:
   ${data.tests}
 
+## LICENSE:
+  ${data.license}
+
  ## CONTRIBUTORS:
   ${data.contributors}
 
@@ -36,7 +41,8 @@ console.log("data in generateMarkdown", data);
   ${data.questions}
 
   \n Contact the author at ${data.email}
-  \n View the project in GitHub at: [${data.url}](${data.url})
+  \n View the project in GitHub at: ${data.url}
+  \n View demo video at : https://youtu.be/-aKSW7OlcAA
  
   \n <img src="${data.avatar}"/>
 

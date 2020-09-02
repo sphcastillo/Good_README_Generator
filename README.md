@@ -1,39 +1,46 @@
 
   # TITLE: Weather Dashboard
   
- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
   ## DESCRIPTION:
-  You can find out the weather in any given city
+  check weahter
 
   ## TABLE OF CONTENTS:
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Tests](#tests)
+  - [License](#license)
   - [Contributors](#contributors)
   - [Questions](#questions)
+ 
 
 
   ## INSTALLATION:
-  Type any city you're intersted in search and discover what the weather is 
+  check weather
 
  ## USAGE:
-  To tell you the weather in any given city
+  check weather
 
  ## TESTS:
-  Try previous searches and see if it work 
+  check weather
+
+## LICENSE:
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
  ## CONTRIBUTORS:
-  Sophia Castillo
+  Sophia A Castillo
 
   ## QUESTIONS:
-  Author is happy to answer any question
+  Contact the author
 
   
  Contact the author at sphcastillo@gmail.com
   
- View the project in GitHub at: [https://github.com/sphcastillo](https://github.com/sphcastillo)
+ View the project in GitHub at: https://github.com/sphcastillo
+  
+ View demo video at : https://youtu.be/-aKSW7OlcAA
  
   
  <img src="https://avatars1.githubusercontent.com/u/41237903?v=4"/>
